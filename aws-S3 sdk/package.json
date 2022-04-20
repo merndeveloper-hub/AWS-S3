@@ -1,0 +1,21 @@
+{
+  "name": "S3-upload-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1082.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "multer": "^1.4.4",
+    "pr2": "^1.8.4",
+    "uuid": "^8.3.2"
+  }
+}
